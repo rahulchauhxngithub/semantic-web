@@ -1,0 +1,33 @@
+.container{
+    width: 1170px;
+    height: auto;
+    margin:0 auto;
+
+}
+.container .header{
+    width: 1170px;
+    height: auto;
+    background-color: #f000f0;
+}
+.container .contentrow{
+    width: 1170px;
+    height: auto;
+    
+}
+    .container .contentrow .content1{
+        width: 670px;
+        height: auto;
+        background-color: #1ab1b9;
+    }
+    .container .contentrow .content2{
+        width: 670px;
+        height: auto;
+        background-color: #5ecc0f;
+        float: left;
+    }
+    .container .contentrow .content3{
+        width: 670px;
+        height: auto;
+        background-color: #d28b27;
+        float: left;
+    }
